@@ -12,7 +12,7 @@
 
 - 👯 I’m looking to collaborate on **OpenSource Projects**
 
-- 👨‍💻 All of my projects are available at **[My Portfolio](https://konakech.onredner.com)**
+- 👨‍💻 All of my projects are available at **[My Portfolio](https://konakech.000webhostapp.com/)**
 
 - 📫 How to reach me **konakech2@gmail.com**
 
