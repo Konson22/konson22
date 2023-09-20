@@ -6,13 +6,13 @@
 
 ## 🙋‍♂️ About Me
 
-- 🔭 I’m currently working on **[Skilly Experts](https://github.com/skillify-expert.app/)**
+- 🔭 I’m currently working on **[ServiceConnect](https://skillfinder-a9cp.onrender.com)**
 
 - 🌱 I’m currently learning **Data Structures and Algorithms.**
 
 - 👯 I’m looking to collaborate on **OpenSource Projects**
 
-- 👨‍💻 All of my projects are available at **[My Portfolio](https://konsonak.com)**
+- 👨‍💻 All of my projects are available at **[My Portfolio](https://konakech.onredner.com)**
 
 - 📫 How to reach me **konakech2@gmail.com**
 
