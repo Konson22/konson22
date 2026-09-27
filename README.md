@@ -1,100 +1,205 @@
-<a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/></a>
+<div align="center">
 
-<h1 align="center">Kon Akech Kon</h1>
-<p align="center">Full Stack Developer • South Sudan</p>
-<p align="center">
-  <a href="https://konakech.000webhostapp.com/" target="_blank">Portfolio</a> •
-  <a href="mailto:konakech2@gmail.com">Email</a> •
-  <a href="https://www.linkedin.com/in/kon-akech-10624b221/" target="_blank">LinkedIn</a>
+<img width="100%" src="https://i.imgur.com/iXuL1HG.png" alt="Kon Akech Kon Banner" />
+
+# Kon Akech Kon
+
+### IT & Software Engineer | Full-Stack Developer
+
+Building reliable **web, mobile, business and enterprise systems**.
+
+📍 South Sudan
+
+[Portfolio](https://konakech.com/) • [LinkedIn](https://www.linkedin.com/in/kon-akech-10624b221/) • [Email](mailto:konakech2@gmail.com)
+
+</div>
+
+---
+
+## About Me
+
+I'm an **IT & Software Engineer** focused on designing, developing and supporting practical technology solutions for businesses and organizations.
+
+My work spans **full-stack software development, mobile applications, APIs, databases, IT infrastructure, Microsoft 365 and business information systems**.
+
+I am particularly interested in building systems that solve operational problems — including finance, billing, inventory, procurement, HR, education, pharmacy and other enterprise workflows.
+
+```text
+Software Engineering   ███████████████████░
+Backend & APIs         ███████████████████░
+Database Systems       ██████████████████░░
+Frontend Development   ██████████████████░░
+IT Infrastructure      █████████████████░░░
+Cloud & DevOps         ███████████████░░░░░
+```
+
+---
+
+## What I Build
+
+### Enterprise & Business Systems
+
+Designing software for organizations that need structured workflows, centralized information and reliable reporting.
+
+- Finance & Accounting Systems
+- Procurement & Approval Workflows
+- HR & Payroll Systems
+- Inventory & Asset Management
+- Billing & Revenue Management
+- Project & Budget Management
+- Management Dashboards & Reporting
+
+### Web & Mobile Applications
+
+Building modern applications with maintainable architecture and responsive user experiences.
+
+- Full-stack web applications
+- REST APIs
+- Progressive and offline-capable applications
+- Mobile applications
+- Administrative dashboards
+- Multi-tenant SaaS platforms
+
+### IT & Infrastructure
+
+Supporting the technology environments behind business operations.
+
+- Microsoft 365
+- User & Access Management
+- IT Support
+- Networking
+- Systems Administration
+- Deployment & Hosting
+- Backup & Recovery
+
+---
+
+## Core Technology Stack
+
+### Backend
+
+<p>
+<img src="https://skillicons.dev/icons?i=laravel,php,nodejs,express,python" />
+</p>
+
+### Frontend & Mobile
+
+<p>
+<img src="https://skillicons.dev/icons?i=react,js,ts,html,css,bootstrap" />
+</p>
+
+### Databases
+
+<p>
+<img src="https://skillicons.dev/icons?i=mysql,mongodb,sqlite" />
+</p>
+
+### Infrastructure & Development
+
+<p>
+<img src="https://skillicons.dev/icons?i=docker,aws,git,github,postman" />
 </p>
 
 ---
 
-## Snapshot
+## Selected Work
 
-- 🔭 Building **[ServiceConnect](https://skillfinder-a9cp.onrender.com)** for career discovery and mentorship.
-- 🌱 Sharpening problem-solving with **Data Structures & Algorithms**.
-- 🤝 Open to collaborating on impactful **open-source** initiatives.
-- ⚡ Balancing code with gaming sessions and time in the gym.
+### Enterprise Management Systems
 
-## Currently
+Designing modular platforms that bring together:
 
-- **Exploring:** modern front-end architecture, backend performance tuning, and cloud-first deployments.
-- **Writing About:** improving developer experience for growing teams.
-- **Helping Teams:** ship resilient web apps with thoughtful UX and scalable APIs.
+`Finance` • `Accounting` • `HR` • `Payroll` • `Procurement` • `Inventory` • `Projects` • `Budgets` • `Reporting`
 
-## Tech Stack
+Built around role-based access, approval workflows, branch operations and centralized management.
 
-### Frontend & Mobile
+### Water Billing & Revenue Management
 
-<p align="left">
-  <a href="https://reactjs.org/" target="_blank"><img src="https://img.icons8.com/color/48/000000/react-native.png" alt="React"/></a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://img.icons8.com/color/48/000000/javascript.png" alt="JavaScript"/></a>
-  <a href="https://www.typescriptlang.org/" target="_blank"><img src="https://img.icons8.com/color/48/typescript.png" alt="TypeScript"/></a>
-  <a href="https://www.w3.org/html/" target="_blank"><img src="https://img.icons8.com/color/48/000000/html-5.png" alt="HTML5"/></a>
-  <a href="https://www.w3schools.com/css/" target="_blank"><img src="https://img.icons8.com/color/48/000000/css3.png" alt="CSS3"/></a>
-  <a href="https://getbootstrap.com" target="_blank"><img src="https://img.icons8.com/color/48/000000/bootstrap.png" alt="Bootstrap"/></a>
-  <a href="https://redux.js.org" target="_blank"><img src="https://img.icons8.com/color/48/000000/redux.png" alt="Redux"/></a>
-  <a href="https://mui.com/" target="_blank"><img src="https://img.icons8.com/color/48/000000/material-ui.png" alt="Material UI"/></a>
-</p>
+Billing and revenue-management solutions supporting:
 
-### Backend & Cloud
+`Customers` • `Meter Reading` • `Billing` • `Payments` • `Revenue` • `Reporting` • `Offline Operations`
 
-<p align="left">
-  <a href="https://nodejs.org" target="_blank"><img src="https://img.icons8.com/color/48/000000/nodejs.png" alt="Node.js"/></a>
-  <a href="https://expressjs.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="Express" width="48" height="48"/></a>
-  <a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" alt="Laravel" width="48" height="48"/></a>
-  <a href="https://spring.io/projects/spring-boot" target="_blank"><img src="https://img.icons8.com/color/48/000000/spring-logo.png" alt="Spring Boot"/></a>
-  <a href="https://www.python.org" target="_blank"><img src="https://img.icons8.com/color/48/000000/python.png" alt="Python"/></a>
-  <a href="https://www.mongodb.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="48" height="48"/></a>
-  <a href="https://www.mysql.com/" target="_blank"><img src="https://img.icons8.com/fluent/50/000000/mysql-logo.png" alt="MySQL"/></a>
-  <a href="https://firebase.google.com/" target="_blank"><img src="https://img.icons8.com/color/48/000000/firebase.png" alt="Firebase"/></a>
-</p>
+Designed for environments where connectivity cannot always be guaranteed.
 
-### Tooling & Ops
+### SaaS Business Applications
 
-<p align="left">
-  <a href="https://git-scm.com/" target="_blank"><img src="https://img.icons8.com/color/48/000000/git.png" alt="Git"/></a>
-  <a href="https://postman.com" target="_blank"><img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="45" height="45"/></a>
-  <a href="https://www.jenkins.io" target="_blank"><img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="Jenkins" width="48" height="48"/></a>
-  <a href="https://www.docker.com/" target="_blank"><img src="https://img.icons8.com/color/48/docker.png" alt="Docker"/></a>
-  <a href="https://aws.amazon.com/" target="_blank"><img src="https://img.icons8.com/color/48/amazon-web-services.png" alt="AWS"/></a>
-</p>
+Developing reusable business platforms for industries including:
 
-## Featured Projects
+`Pharmacy` • `Education` • `Retail` • `Inventory` • `Accounting`
 
-- **ServiceConnect** – mentoring and career discovery platform focused on underserved communities.
-- **Portfolio Hub** – hub for showcasing client work, UI experiments, and personal projects.
-- **DevOps Playbook** – internal tools for automating deployment pipelines with Jenkins and Docker.
+With multi-branch operations, centralized administration and offline-capable workflows.
 
-## GitHub Insights
+---
 
-<p align="center">
-  <a href="https://github.com/konson22/github-readme-streak-stats">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=konson22&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0" alt="GitHub Streak"/>
-  </a>
-</p>
+## Engineering Principles
 
-<p align="center">
-  <a href="https://github.com/konson22/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api?username=konson22&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" alt="GitHub Stats"/></a>
-  <a href="https://github.com/konson22/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=konson22&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" alt="Top Languages"/></a>
-</p>
+I try to build systems around a few principles:
 
-<p align="center">
-  <a href="https://github.com/konson22/github-readme-activity-graph"><img src="https://activity-graph.herokuapp.com/graph?username=konson22&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" alt="Activity Graph"/></a>
-</p>
+**Solve the operational problem first.**  
+Technology should simplify the work rather than introduce unnecessary complexity.
 
-## Connect
+**Design for maintainability.**  
+Good architecture should make future changes easier, not harder.
 
-<p align="left">
-  <a href="https://www.linkedin.com/in/kon-akech-10624b221/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png" alt="LinkedIn"/></a>
-  <a href="https://twitter.com/konsonak"><img src="https://img.icons8.com/fluent/48/000000/twitter.png" alt="Twitter"/></a>
-  <a href="https://www.instagram.com/konsonakech/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png" alt="Instagram"/></a>
-</p>
+**Security is part of the architecture.**  
+Authentication, authorization, RBAC and auditability should be designed into the system.
 
-## ❤ Views & Followers
+**Build for the environment.**  
+Offline capability, unreliable connectivity and infrastructure constraints matter when designing software for emerging markets.
 
-<a href="https://github.com/Meghna-DAS/github-profile-views-counter">
-  <img src="https://komarev.com/ghpvc/?username=konson22" alt="Profile Views"/>
-</a>
-<a href="https://github.com/konson22?tab=followers"><img src="https://img.shields.io/github/followers/konson22?label=Followers&style=social" alt="GitHub Followers"/></a>
+---
+
+## GitHub Activity
+
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=konson22&show_icons=true&theme=github_dark&hide_border=true" />
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=konson22&layout=compact&theme=github_dark&hide_border=true" />
+
+</div>
+
+<div align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=konson22&theme=github-dark-blue&hide_border=true" />
+
+</div>
+
+---
+
+## Current Focus
+
+```text
+→ Enterprise software architecture
+→ Multi-tenant SaaS platforms
+→ Offline-first applications
+→ Accounting & financial systems
+→ API and database architecture
+→ Cloud deployment & DevOps
+→ Secure role-based systems
+```
+
+---
+
+## Let's Connect
+
+I'm open to **software engineering, IT engineering, system development and technology collaboration opportunities**.
+
+<div align="center">
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-0A66C2?style=for-the-badge)](https://konakech.com/)
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Kon_Akech-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/kon-akech-10624b221/)
+
+[![Email](https://img.shields.io/badge/Email-Contact_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:konakech2@gmail.com)
+
+</div>
+
+---
+
+<div align="center">
+
+### Build technology that solves real problems.
+
+![Profile Views](https://komarev.com/ghpvc/?username=konson22&style=flat-square)
+
+</div>
