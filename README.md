@@ -1,6 +1,6 @@
 <div align="center">
 
-<img width="100%" src="https://konakech.com/images/kon-1-600.webp" alt="Kon Akech Kon Banner" />
+<img width="100%" src="https://i.imgur.com/iXuL1HG.png" alt="Kon Akech Kon Banner" />
 
 # Kon Akech Kon
 
